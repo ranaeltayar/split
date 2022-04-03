@@ -1,0 +1,21 @@
+
+  table, th, td {
+  border: 1px solid;
+}
+table {
+   width: 100%;
+}
+
+  th {
+   height: 50px;
+}
+ th, td {
+  text-align: center;
+}
+
+ tr:hover {
+   background-color: lightblue;
+}
+h1 {
+text-align: center;
+}
